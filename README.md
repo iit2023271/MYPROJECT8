@@ -3,6 +3,10 @@
 A live analog clock built with CSS and JavaScript, showing the time, date, and day of the week.
 
 
+## Screenshot
+
+![Demo](screenshots/demo.png)
+
 ## Features
 
 - Hour, minute, and second hands (gold second hand)
